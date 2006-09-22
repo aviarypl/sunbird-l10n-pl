@@ -43,8 +43,8 @@
   -->
 
 <!ENTITY pref.alarmgoesoff.label "Gdy włącza się alarm:">
-<!ENTITY pref.playasound "odegraj dźwięk">
-<!ENTITY pref.calendar.alarms.playsound.accessKey "e">
+<!ENTITY pref.playasound "odtwórz dźwięk">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "w">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "użyj domyślnego dźwięku">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Przeglądaj…">
