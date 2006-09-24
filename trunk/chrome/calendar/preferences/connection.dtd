@@ -42,7 +42,7 @@
 
 <!ENTITY  pref.showConnections.label    "Ustawienia połączenia…">
 <!ENTITY  pref.showConnections.accesskey "U">
-<!ENTITY  pref.proxiesInfo.label        "Określ, w jaki sposób program &brandShortName; ma łączyć sie z Internetem.">
+<!ENTITY  pref.proxiesInfo.label        "Określ, w jaki sposób program &brandShortName; ma łączyć się z Internetem.">
 <!ENTITY  pref.connectionsInfo.caption  "Połączenie">
 
 <!ENTITY  connectionsDialog.title       "Ustawienia połączenia">
