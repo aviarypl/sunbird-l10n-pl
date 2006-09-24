@@ -56,9 +56,9 @@
 <!ENTITY pref.missedalarms "Wyświetl opuszczone powiadomienia">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Domyślne ustawienia powiadomień">
-<!ENTITY pref.defalarm4events.label "Domyślne ustawienie alarmu dla wydarzeń:">
+<!ENTITY pref.defalarm4events.label "Domyślne ustawienie powiadomień dla wydarzeń:">
 <!ENTITY pref.defalarm4events.accesskey "u">
-<!ENTITY pref.defalarm4todos.label "Domyślne ustawienie alarmu dla zadań:">
+<!ENTITY pref.defalarm4todos.label "Domyślne ustawienie powiadomień dla zadań:">
 <!ENTITY pref.defalarm4todos.accesskey "s">
 <!ENTITY pref.alarm.on "włączone">
 <!ENTITY pref.alarm.off "wyłączone">

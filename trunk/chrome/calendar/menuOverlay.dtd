@@ -56,7 +56,7 @@
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "l">
 
-<!ENTITY calendar.new.journal.label              "Nowa pozycja dziennika...">
+<!ENTITY calendar.new.journal.label              "Nowa pozycja dziennika…">
 <!ENTITY calendar.new.journal.key                "J">
 <!ENTITY calendar.new.journal.accesskey          "z">
 
@@ -68,50 +68,50 @@
 <!ENTITY event.edit.event.key                   "E">
 <!ENTITY event.edit.event.accesskey             "e">
 
-<!ENTITY event.delete.event                     "Usuń zaznaczone wydarzenie(a)">
+<!ENTITY event.delete.event                     "Usuń zaznaczone wydarzenia">
 <!ENTITY event.delete.event.accesskey           "y">
 
-<!ENTITY event.delete.tasks                     "Usuń zaznaczone zadanie(a)">
+<!ENTITY event.delete.tasks                     "Usuń zaznaczone zadania">
 <!ENTITY event.delete.tasks.accesskey           "z">
 
-<!ENTITY event.mail.event                       "Wyślij zaznaczone wydarzenie(a)…">
+<!ENTITY event.mail.event                       "Wyślij zaznaczone wydarzenia…">
 <!ENTITY event.mail.event.key                   "M">
 <!ENTITY event.mail.event.accesskey             "W">
 
-<!ENTITY calendar.print.label                   "Drukuj aktywny kalendarz...">
+<!ENTITY calendar.print.label                   "Drukuj aktywny kalendarz…">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "r">
 
 <!ENTITY calendar.printpreview.label            "Podgląd wydruku">
 <!ENTITY calendar.printpreview.accesskey        "g">
 
-<!ENTITY calendar.pagesetup.label               "Ustawienia strony...">
+<!ENTITY calendar.pagesetup.label               "Ustawienia strony…">
 <!ENTITY calendar.pagesetup.accesskey           "u">
 
-<!ENTITY calendar.import.label                  "Importuj z pliku...">
+<!ENTITY calendar.import.label                  "Importuj z pliku…">
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "i">
 
 <!ENTITY calendar.wizard.label                  "Uruchom kreatora">
 <!ENTITY calendar.wizard.accesskey              "w">
 
-<!ENTITY calendar.export.label                  "Eksportuj wybrane wydarzenie...">
+<!ENTITY calendar.export.label                  "Eksportuj wybrane wydarzenie…">
 <!ENTITY calendar.export.accesskey              "E">
 
-<!ENTITY calendar.export.calendar.label         "Eksportuj kalendarz...">
+<!ENTITY calendar.export.calendar.label         "Eksportuj kalendarz…">
 <!ENTITY calendar.export.calendar.accesskey     "E">
 
 <!ENTITY calendar.export.selection.label        "Eksportuj zaznaczone…">
 <!ENTITY calendar.export.selection.accesskey    "k">
 
-<!ENTITY calendar.subscribe.label               "Subskrybuj zdalny kalendarz...">
+<!ENTITY calendar.subscribe.label               "Subskrybuj zdalny kalendarz…">
 <!ENTITY calendar.subscribe.accesskey           "s">
 
 <!ENTITY calendar.reloadserver.label            "Odśwież zdalne kalendarze">
 <!ENTITY calendar.reloadserver.key              "R">
 <!ENTITY calendar.reloadserver.accesskey        "z">
 
-<!ENTITY calendar.publish.label                 "Publikuj...">
+<!ENTITY calendar.publish.label                 "Publikuj…">
 <!ENTITY calendar.publish.accesskey             "p">
 
 <!ENTITY calendar.publish.calendar.label        "Publikuj kalendarz…">
@@ -161,10 +161,10 @@
 
 <!ENTITY calendar.toolbar.label                 "Pasek narzędzi kalendarza">
 
-<!ENTITY calendar.menu.customize.label          "Dostosuj...">
+<!ENTITY calendar.menu.customize.label          "Dostosuj…">
 <!ENTITY calendar.menu.customize.accesskey      "D">
 
-<!ENTITY calendar.preferences.label             "Preferencje...">
+<!ENTITY calendar.preferences.label             "Preferencje…">
 <!ENTITY calendar.preferences.accesskey         "r">
 
 <!ENTITY showSearchToolbarCmd.label             "Pasek wyszukiwania">
