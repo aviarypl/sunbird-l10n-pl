@@ -38,7 +38,7 @@
 <!ENTITY wizard.label             "Utwórz nowy kalendarz" >
 <!ENTITY wizard.description       "Zlokalizuj swój kalendarz" >
 
-<!ENTITY initialpage.description    "Twój kalendarz może być przechowywany na lokalnym komputerze, albo
+<!ENTITY initialpage.description    "Twój kalendarz może być przechowywany na lokalnym komputerze albo
 na serwerze, dzięki czemu można będzie go używać zdalnie lub współdzielić ze znajomymi lub współpracownikami.">
 <!ENTITY initialpage.computer.label  "W komputerze">
 <!ENTITY initialpage.network.label   "W sieci">

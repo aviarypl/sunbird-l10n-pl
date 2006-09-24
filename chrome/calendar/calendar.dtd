@@ -130,16 +130,16 @@
 <!ENTITY newevent.exceptions.caption  "Wyjątki">
 <!ENTITY newevent.addexceptions.label "Dodaj wyjątek">
 <!ENTITY newevent.deleteexceptions.label "Usuń wyjątek">
-<!ENTITY newevent.endtime.warning    "Termin rozpoczęcia zadania jest późniejszy niz termin jego zakończenia.">
+<!ENTITY newevent.endtime.warning    "Termin rozpoczęcia zadania jest późniejszy niż termin jego zakończenia.">
 <!ENTITY newevent.enddate.warning    "Wpisana data jest po dniu zakończenia.">
 <!ENTITY newevent.repeatdate.tooltip    "Wybierz datę zakończenia" >
 <!ENTITY newevent.recurend.warning    "Czas powtarzania kończy się przed czasem zakończenia.">
 <!ENTITY newevent.15minutes.before.label        "15 minut przed" >
 <!ENTITY newevent.30minutes.before.label        "30 minut przed" >
-<!ENTITY newevent.recurnumberoftimes.warning    "Należy podać liczbę powtórzeń.">
+<!ENTITY newevent.recurnumberoftimes.warning    "Proszę podać liczbę powtórzeń.">
 <!ENTITY newevent.readonly.item.warning    "Ta pozycja jest w kalendarzu tylko do odczytu. Nie można jej zmieniać.">
 <!ENTITY newevent.readonly.cal.warning    "Ten kalendarz jest tylko do odczytu.">
-<!ENTITY newevent.recurinterval.warning    "Należy określić częstość powtórzeń.">
+<!ENTITY newevent.recurinterval.warning    "Proszę określić częstotliwość powtórzeń.">
 <!ENTITY newevent.endtime.tooltip    "Wybierz czas zakończenia dla tego wydarzenia" >
 <!ENTITY newevent.starttimeerror.alertmessage "Wydarzenie nie może skończyć się zanim się zaczęło. Popraw czas początku bądź końca wydarzenia." >
 <!ENTITY newevent.recurendtimeerror.alertmessage "Czas powtarzania nie może być przed końcem wydarzenia. Popraw to lub wyłącz powtarzanie." >
@@ -151,7 +151,7 @@
 <!ENTITY newevent.recurrence.occurs.label   "Ustaw wg" >
 <!ENTITY newevent.recurrence.day.label      "dni" >
 <!ENTITY newevent.recurrence.week.label     "tygodni" >
-<!ENTITY newevent.recurrence.weeks.label    "tygodni(e) w:"> w
+<!ENTITY newevent.recurrence.weeks.label    "tygodni(e) w:">
 <!ENTITY newevent.recurrence.month.label    "miesięcy" >
 <!ENTITY newevent.recurrence.months.label   "miesiąc(e):" >
 <!ENTITY newevent.recurrence.year.label     "lat" >
@@ -201,9 +201,9 @@
 <!ENTITY newtodo.beforealarmends.label  "przed zakończeniem zadania" >
 <!ENTITY newtodo.newtodo.tab.label "Zadanie" >
 <!ENTITY newtodo.status.longlabel "Status zadania">
-<!ENTITY newtodo.duetime.warning    "Godzina rozpoczęcia zadania jest po jego zakończeniu.">
-<!ENTITY newtodo.duedate.warning    "Data rozpoczęcia zadania jest po jego zakończeniu.">
-<!ENTITY newtodo.repeatstart.warning "Musisz podać datę rozpoczęcia zadania, aby ustawić powtarzanie.">
+<!ENTITY newtodo.duetime.warning    "Godzina rozpoczęcia zadania jest późniejsza niż godzina jego zakończenia.">
+<!ENTITY newtodo.duedate.warning    "Data rozpoczęcia zadania jest późniejsza niż data jego zakończenia.">
+<!ENTITY newtodo.repeatstart.warning "Aby ustawić powtarzanie, należy podać datę rozpoczęcia zadania.">
 
 <!ENTITY calendar.confirm.deleteallevents  "Czy na pewno usunąć wszystkie zaznaczone wydarzenia?" >
 <!ENTITY calendar.confirm.deleteevent "Czy na pewno usunąć wydarzenie nazwane: " >
@@ -241,7 +241,7 @@
 <!ENTITY calendar.flat.topbar.monthview        "Widok miesiąca" >
 <!ENTITY calendar.monthview.accesskey          "m" >
 <!ENTITY calendar.flat.topbar.multiweekview    "Widok wielotygodniowy" >
-<!ENTITY calendar.multiweekview.accesskey      "i" >
+<!ENTITY calendar.multiweekview.accesskey      "g" >
 <!ENTITY calendar.dayView.key                  "1" >
 <!ENTITY calendar.weekView.key                 "2" >
 <!ENTITY calendar.multiweekView.key            "3" >
@@ -296,7 +296,7 @@
 <!ENTITY calendar.find.key  "F">
 
 <!ENTITY calendar.gototoday.button.tooltip        "Przejdź do dzisiejszej daty" >
-<!ENTITY calendar.choosedate.button.tooltip       "Wybierz dzień, do którego chesz przejsć" >
+<!ENTITY calendar.choosedate.button.tooltip       "Wybierz dzień, do którego chcesz przejść" >
 
 <!ENTITY calendar.dayview.button.tooltip          "Przełącz na widok dnia" >
 <!ENTITY calendar.weekview.button.tooltip         "Przełącz na widok tygodnia" >
@@ -435,8 +435,8 @@
 <!ENTITY calendar.context.monthview.accesskey         "m">
 <!ENTITY calendar.context.multiweekview.label        "Przełącz na widok wielotygodniowy">
 <!ENTITY calendar.context.multiweekview.accesskey    "l">
-<!ENTITY calendar.context.reload.label                "Przeładuj">
-<!ENTITY calendar.context.reload.accesskey            "r">
+<!ENTITY calendar.context.reload.label                "Odśwież">
+<!ENTITY calendar.context.reload.accesskey            "d">
 <!ENTITY calendar.context.emailevent.label            "Wyślij wybrane wydarzenia">
 <!ENTITY calendar.context.emailevent.accesskey        "w">
 <!ENTITY calendar.context.emailtask.label             "Wyślij zadanie">

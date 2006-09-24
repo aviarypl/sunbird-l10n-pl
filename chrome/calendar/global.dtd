@@ -86,13 +86,13 @@
 <!ENTITY day.6.DDD "PIĄ" >
 <!ENTITY day.7.DDD "SOB" >
 
-<!ENTITY day.1.name "Niedziela" >
-<!ENTITY day.2.name "Poniedziałek" >
-<!ENTITY day.3.name "Wtorek" >
-<!ENTITY day.4.name "Środa" >
-<!ENTITY day.5.name "Czwartek" >
-<!ENTITY day.6.name "Piątek" >
-<!ENTITY day.7.name "Sobota" >
+<!ENTITY day.1.name "niedziela" >
+<!ENTITY day.2.name "poniedziałek" >
+<!ENTITY day.3.name "wtorek" >
+<!ENTITY day.4.name "środa" >
+<!ENTITY day.5.name "czwartek" >
+<!ENTITY day.6.name "piątek" >
+<!ENTITY day.7.name "sobota" >
 
 <!ENTITY time.am "AM" >
 <!ENTITY time.pm "PM" >
