@@ -39,7 +39,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.calendar.timezones.list.caption "Wybierz miasto znajdujące się w Twojej strefie czasowej:">
+<!ENTITY pref.calendar.timezones.list.caption "Strefa czasowa:">
 <!ENTITY pref.timezone.Africa.Abidjan "Afryka/Abidżan" >
 <!ENTITY pref.timezone.Africa.Accra "Afryka/Akra" >
 <!ENTITY pref.timezone.Africa.Addis_Ababa "Afryka/Addis Abeba" >

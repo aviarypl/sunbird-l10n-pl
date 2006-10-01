@@ -45,7 +45,7 @@
 
 <!ENTITY pref.weekstarts.label "Pierwszy dzień tygodnia:">
 <!ENTITY pref.weekstarts.accesskey "P">
-<!ENTITY pref.daysoff.label "Dołącz te dni do tygodnia roboczego:">
+<!ENTITY pref.daysoff.label "Dni robocze:">
 
 <!ENTITY pref.numberofweeks.label "Domyślna liczba wyświetlanych tygodni (w tym poprzednich tygodni):">
 <!ENTITY pref.numberofweeks.accesskey "m">
