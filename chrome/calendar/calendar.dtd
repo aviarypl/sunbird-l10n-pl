@@ -261,7 +261,7 @@
 <!ENTITY calendar.unifinder.hidecompletedtodos.label "Ukryj wykonane zadania">
 
 <!ENTITY calendar.calendartab.label "Miesiąc">
-<!ENTITY calendar.listofcalendarstab.label "Kalendarze osobiste">
+<!ENTITY calendar.listofcalendarstab.label "Kalendarze">
 <!ENTITY calendar.gototoday.button.label        "Dzisiaj" >
 
 <!ENTITY calendar.more.label "Więcej">
