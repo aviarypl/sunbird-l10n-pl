@@ -160,7 +160,7 @@
 <!ENTITY newevent.recurrence.lastday.label  "Ostatniego dnia miesiąca" >
 <!ENTITY newevent.repeat.onthe.label        "Powtarzaj dnia" >
 <!ENTITY newevent.repeat.forever.label      "Powtarzaj zawsze" >
-<!ENTITY newevent.repeat.for.label          "Powtarzaj przez" >
+<!ENTITY newevent.repeat.for.label          "Powtarzaj" >
 <!ENTITY newevent.repeat.until.label        "Powtarzaj do" >
 <!ENTITY newevent.recurrence.exceptions.label    "Wyjątki:" >
 
