@@ -38,8 +38,8 @@
 <!ENTITY pref.mainbox.label "Ustawienia ogólne" >
 <!ENTITY pref.dateformat.label "Format daty:" >
 <!ENTITY pref.dateformat.accesskey "F">
-<!ENTITY pref.dateformat.long "krótki" >
-<!ENTITY pref.dateformat.short "długi"  >
+<!ENTITY pref.dateformat.long "długi" >
+<!ENTITY pref.dateformat.short "krótki"  >
 <!ENTITY pref.defaultlength.label   "Domyślny czas trwania wydarzenia:" >
 <!ENTITY pref.defaultlength.accesskey "D">
 <!ENTITY pref.defaultsnoozelength.label   "Domyślna długość odstępu między przypomnieniami:" >
