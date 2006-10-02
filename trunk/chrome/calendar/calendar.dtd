@@ -55,8 +55,8 @@
 <!ENTITY alarm.units.hours.singular    "godzina" >
 <!ENTITY alarm.units.days.singular     "dzień" >
 
-<!ENTITY alarm.start.warning     "To powiadomienie wymaga daty początkowej" >
-<!ENTITY alarm.due.warning     "To powiadomienie wymaga daty wystąpienia" >
+<!ENTITY alarm.start.warning     "To przypomnienie wymaga daty początkowej" >
+<!ENTITY alarm.due.warning     "To przypomnienie wymaga daty wystąpienia" >
 
 <!ENTITY repeat.units.occurence.both         "razy" >
 
@@ -109,7 +109,7 @@
 <!ENTITY newevent.private.note       "To wydarzenie jest prywatne." >
 <!ENTITY newevent.public.label       "Publiczne" >
 <!ENTITY newevent.confidential.label "Poufne" >
-<!ENTITY newevent.alarm.label        "Powiadom:" >
+<!ENTITY newevent.alarm.label        "Przypomnij:" >
 <!ENTITY newevent.server.label       "Kalendarz:" >
 <!ENTITY newevent.invite.label       "Zaproś" >
 <!ENTITY newevent.details.label      "Szczegóły" >
@@ -211,7 +211,7 @@
 
 <!ENTITY event.alarm.checkbox.label "Przypomnij mi znów " >
 
-<!ENTITY event.title.alarm         "Powiadomienie" >
+<!ENTITY event.title.alarm         "Przypomnienie" >
 <!ENTITY event.title.new         "Nowe wydarzenie" >
 <!ENTITY event.title.label       "Edytuj element" >
 <!ENTITY event.title.edit        "Edytuj" >
@@ -489,7 +489,7 @@
 <!ENTITY calendar.alarm.editevent.label             "Edytuj wydarzenie" >
 <!ENTITY calendar.alarm.acknowledgeall.label        "Potwierdź wszystkie alarmy" >
 <!ENTITY calendar.alarm.snooze.label                "Przypomnij" >
-<!ENTITY calendar.alarm.title.label                 "Powiadomienie kalendarza" >
+<!ENTITY calendar.alarm.title.label                 "Przypomnienie kalendarza" >
 <!ENTITY calendar.alarm.dismiss.label               "Wyłącz" >
 <!ENTITY calendar.alarm.dismissall.label            "Wyłącz wszystkie przypomnienia" >
 <!ENTITY calendar.alarm.for.label  "za" >

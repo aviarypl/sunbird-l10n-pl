@@ -42,5 +42,5 @@
 <!ENTITY pref.dateformat.short "długi"  >
 <!ENTITY pref.defaultlength.label   "Domyślny czas trwania wydarzenia:" >
 <!ENTITY pref.defaultlength.accesskey "D">
-<!ENTITY pref.defaultsnoozelength.label   "Domyślna długość odstępu powiadamiania:" >
+<!ENTITY pref.defaultsnoozelength.label   "Domyślna długość odstępu między przypomnieniami:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "o">
