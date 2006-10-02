@@ -40,7 +40,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.calendar.view.allview.caption "Ogólny">
-<!ENTITY pref.calendar.view.multiweekview.caption "Widok wielotygodniowy">
+<!ENTITY pref.calendar.view.multiweekview.caption "Widok wielu tygodni">
 <!ENTITY pref.calendar.view.workweek.caption "Tydzień roboczy">
 
 <!ENTITY pref.weekstarts.label "Pierwszy dzień tygodnia:">

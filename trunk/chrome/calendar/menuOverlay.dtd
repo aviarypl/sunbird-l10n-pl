@@ -179,7 +179,7 @@
 <!ENTITY calendar.displaytodos.checkbox.label       "Wyświetlaj zadania w kalendarzu">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "z">
 
-<!ENTITY calendar.menu.numberofweeks.label      "Rozmiar widoku wielotygodniowego">
+<!ENTITY calendar.menu.numberofweeks.label      "Zakres widoku wielu tygodni">
 <!ENTITY calendar.menu.numberofweeks.2          "Dwa tygodnie">
 <!ENTITY calendar.menu.numberofweeks.3          "Trzy tygodnie">
 <!ENTITY calendar.menu.numberofweeks.4          "Cztery tygodnie">
