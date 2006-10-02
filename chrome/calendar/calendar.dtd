@@ -295,7 +295,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label    "Nazwa kalendarza">
 <!ENTITY calendar.find.key  "F">
 
-<!ENTITY calendar.gototoday.button.tooltip        "Przejdź do dzisiejszej daty" >
+<!ENTITY calendar.gototoday.button.tooltip        "Przejdź do dnia dzisiejszego" >
 <!ENTITY calendar.choosedate.button.tooltip       "Wybierz dzień, do którego chcesz przejść" >
 
 <!ENTITY calendar.dayview.button.tooltip          "Przełącz na widok dnia" >
@@ -508,8 +508,8 @@
 <!ENTITY calendar.server.dialog.location.label      "Adres URL serwera:">
 <!ENTITY calendar.server.dialog.local.location.label "Lokalne położenie pliku:">
 <!ENTITY calendar.server.dialog.browse.label        "Przeglądaj...">
-<!ENTITY calendar.server.dialog.help.label          "Proszę wpisać lokalną lub zdalną ścieżkę do pliku, np.: http://www.mozilla.org/projects/calendar/caldata/CanadaHolidays.ics">
-<!ENTITY calendar.local.calendar.dialog.help.label  "Proszę określić położenie pliku kalendarza na komputerze (opcjonalnie)">
+<!ENTITY calendar.server.dialog.help.label          "Wpisz lokalną lub zdalną ścieżkę do pliku, np.: http://www.mozilla.org/projects/calendar/caldata/CanadaHolidays.ics">
+<!ENTITY calendar.local.calendar.dialog.help.label  "Określ położenie pliku kalendarza na komputerze (opcjonalnie)">
 <!ENTITY calendar.local.calendar.dialog.optional.label "Opcja ta jest używana podczas publikowania kalendarza na serwer (opcjonalnie)">
 
 <!-- Calendar Properties -->
