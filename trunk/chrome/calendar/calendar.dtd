@@ -503,7 +503,7 @@
 <!ENTITY calendar.server.dialog.title.new           "Dodaj nowy kalendarz">
 <!ENTITY calendar.server.dialog.title.open          "Otwórz plik kalendarza">
 <!ENTITY calendar.server.dialog.title.edit          "Właściwości kalendarza">
-<!ENTITY calendar.server.dialog.name.label          "Nazwa kalendarza:"">
+<!ENTITY calendar.server.dialog.name.label          "Nazwa kalendarza:">
 <!ENTITY calendar.server.dialog.publish.label       "Czy automatycznie synchronizować kalendarz lokalny ze zdalnym? Zaznaczenie tej opcji spowoduje pobranie danych z kalendarza zdalnego oraz synchronizację z kalendarzem lokalnym przed edycją i wysłaniem kalendarza lokalnego na serwer.">
 <!ENTITY calendar.server.dialog.location.label      "Adres URL serwera:">
 <!ENTITY calendar.server.dialog.local.location.label "Lokalne położenie pliku:">
