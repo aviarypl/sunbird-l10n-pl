@@ -57,9 +57,9 @@
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Domyślne ustawienia przypomnień">
 <!ENTITY pref.defalarm4events.label "Przypomnienia dla wydarzeń:">
-<!ENTITY pref.defalarm4events.accesskey "u">
+<!ENTITY pref.defalarm4events.accesskey "y">
 <!ENTITY pref.defalarm4todos.label "Przypomnienia dla zadań:">
-<!ENTITY pref.defalarm4todos.accesskey "s">
+<!ENTITY pref.defalarm4todos.accesskey "a">
 <!ENTITY pref.alarm.on "włączone">
 <!ENTITY pref.alarm.off "wyłączone">
 <!ENTITY pref.defalarmlen4events.label "Czas przypomnienia przed wydarzeniem:">
