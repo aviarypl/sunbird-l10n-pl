@@ -39,7 +39,7 @@
 
 <!-- Main page -->
 <!ENTITY event.tab.main.label                           "Wydarzenie">
-<!ENTITY event.tab.recurrence.label                     "Powtarzalność">
+<!ENTITY event.tab.recurrence.label                     "Częstotliwość powtarzania">
 <!ENTITY event.tab.attendees.label                      "Uczestnicy">
 <!ENTITY event.tab.timezone.label                       "Strefa czasowa">
 
@@ -48,7 +48,7 @@
 <!ENTITY event.confidential.label "Tylko czas i data" >
 
 <!-- Recurrence page -->
-<!ENTITY event.recurrence.pattern.label                 "Wzorzec powtarzania">
+<!ENTITY event.recurrence.pattern.label                 "Częstotliwość powtarzania">
 <!ENTITY event.recurrence.occurs.label                  "Powtarzaj" >
 <!ENTITY event.recurrence.none.label                    "nie powtarzaj" >
 <!ENTITY event.recurrence.day.label                     "codziennie" >
