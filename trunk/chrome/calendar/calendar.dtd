@@ -189,7 +189,7 @@
 <!ENTITY newevent.removeselectedfile.label "Usuń wybrany plik">
 
 <!ENTITY newtodo.completed.label "Wykonane">
-<!ENTITY newtodo.duedate.label "Termin wykonania:">
+<!ENTITY newtodo.duedate.label "Termin:">
 <!ENTITY newtodo.startdate.label "Początek zadania">
 <!ENTITY newtodo.priority.label "Priorytet:">
 <!ENTITY newtodo.percentcomplete.label "&#37; wykonania">
