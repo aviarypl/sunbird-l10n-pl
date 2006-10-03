@@ -51,7 +51,7 @@
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "g">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Odtwórz">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "w">
-<!ENTITY pref.showalarmbox "Wyświetl okno powiadomienia">
+<!ENTITY pref.showalarmbox "Wyświetl okno przypomnienia">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "k">
 <!ENTITY pref.missedalarms "Wyświetl opuszczone przypomnienia">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
